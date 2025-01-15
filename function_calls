@@ -1,0 +1,15 @@
+h1,
+h2, 
+h3, 
+h4,
+h5, 
+h6 {
+    color: #030f27;
+}
+
+/* Add h5 specific styling */
+h5 {
+    font-size: 16px;  /* Reduced size for h5 */
+    font-weight: 500;
+    margin-bottom: 15px;
+} 
